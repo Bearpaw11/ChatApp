@@ -2,6 +2,7 @@
 This is a Chat Room application I created.
 
 You Can join a Chatroom an live chat with other people in the room.
+You can shoose from multiple chat rooms to join
 The Chat admin will notify you when others have joined and left the room
 
 This app uses
