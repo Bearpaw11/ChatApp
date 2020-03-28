@@ -1,0 +1,28 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "Real Time Chat app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bearpaw11/ChatApp.git"
+  },
+  "author": "Chris Behrens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bearpaw11/ChatApp/issues"
+  },
+  "homepage": "https://github.com/Bearpaw11/ChatApp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
