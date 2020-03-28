@@ -14,3 +14,5 @@ Express- backend framework
 socket.io - this is used for event communitcation
 MomentJS- this is used to get the time
 qs-A query String parser 
+
+This is deployed on Heroku @ https://chatappchatroom.herokuapp.com/
